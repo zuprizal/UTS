@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UTShad</string>
+    <string name="nim">NIM</string>
+    <string name="nama">NAMA</string>
+    <string name="alamat">ALAMAT</string>
+    <string name="nohp">NO HP</string>
+    <string name="judul">Belajar Api</string>
+    <string name="show_list_quotes">Daftar</string>
+</resources>
